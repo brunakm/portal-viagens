@@ -68,15 +68,17 @@ portal-viagens/
 │
 ├── package.json
 └── README.md
+```
 
 ## 🌎 Destinos
 O projeto apresenta quatro destinos turísticos:
-* 🇫🇷 Paris
-* 🇧🇷 Rio de Janeiro
-* 🇺🇸 Nova York
-* 🇯🇵 Tóquio
+* Paris
+* Rio de Janeiro
+* Nova York
+* Tóquio
 
 Os destinos são armazenados em um arquivo de dados e renderizados dinamicamente através do método .map().
+
 
 ## 💻 Como executar o projeto
 1. Clone o repositório:
