@@ -104,7 +104,7 @@ npm install
 npm run dev
 ```
 
-5. Abra o endereço disponibilizado pelo Vite no navegador.
+5. Abra o endereço disponibilizado pelo Next.js no navegador.
 
 ## 🧪 Testes
 
