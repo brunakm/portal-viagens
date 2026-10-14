@@ -10,7 +10,7 @@ export const destinos: Destino[] = [
         id: 1,
         nome: "Paris",
         imagem: "/imagens/paris.jpg",
-        descricao: "Conheça a cidade das luzes, famosa pela Torre Eiffel, gastronomia e aquitetura.",
+        descricao: "Conheça a cidade das luzes, famosa pela Torre Eiffel, gastronomia e arquitetura.",
     },
 
     {
